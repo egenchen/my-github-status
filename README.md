@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [jsproxy](https://github.com/EtherDream/jsproxy)                          | 2019-04-23 | Shell      | 2021-04-09   |
-|  2 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin) | 2015-05-19 | Groovy     | 2021-02-20   |
-|  3 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)                | 2018-12-10 | JavaScript | 2021-02-16   |
-|  4 | [request](https://github.com/request/request)                             | 2015-05-22 | JavaScript | 2021-04-09   |
-|  5 | [golang-evdev](https://github.com/gvalkov/golang-evdev)                   | 2015-07-05 | Go         | 2021-03-11   |
-|  6 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)             | 2013-07-26 | C#         | 2021-04-09   |
-|  7 | [leetcode](https://github.com/soulmachine/leetcode)                       | 2017-07-17 | TeX        | 2021-04-09   |
-|  8 | [pagekit](https://github.com/pagekit/pagekit)                             | 2014-07-20 | PHP        | 2021-04-09   |
-|  9 | [docker-redmine](https://github.com/sameersbn/docker-redmine)             | 2015-05-22 | Shell      | 2021-04-06   |
-| 10 | [canku](https://github.com/willerce/canku)                                | 2013-01-10 | JavaScript | 2021-02-10   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)           | 2015-02-24 | Ruby       | 2021-01-24   |
+|  2 | [node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain) | 2016-03-10 | JavaScript | 2021-03-09   |
+|  3 | [tenet](https://github.com/egenchen/tenet)                           | 2021-03-24 | md         | 2021-03-24   |
+|  4 | [katz](https://github.com/gnubert/katz)                              | 2015-07-20 | C          | 2020-08-02   |
+|  5 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)           | 2018-12-10 | JavaScript | 2021-02-16   |
+|  6 | [clash](https://github.com/maskedeken/clash)                         | 2020-10-09 | Go         | 2021-03-31   |
+|  7 | [ladon](https://github.com/ory/ladon)                                | 2019-02-13 | Go         | 2021-04-08   |
+|  8 | [conduit](https://github.com/conduit-rust/conduit)                   | 2015-05-17 | Rust       | 2021-03-05   |
+|  9 | [codeobscure](https://github.com/kaich/codeobscure)                  | 2019-04-23 | Ruby       | 2021-03-15   |
+| 10 | [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)           | 2019-05-15 | JavaScript | 2021-03-30   |
 
 <!--END_SECTION:my_github-->

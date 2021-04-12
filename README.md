@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                                       | 2014-12-12 | Python     | 2021-03-13   |
-|  2 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md         | 2021-04-10   |
-|  3 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)                | 2015-05-19 | Groovy     | 2021-02-20   |
-|  4 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                       | 2014-07-17 | Swift      | 2021-04-09   |
-|  5 | [livepool](https://github.com/rehorn/livepool)                                           | 2014-07-17 | JavaScript | 2021-02-19   |
-|  6 | [jsproxy](https://github.com/EtherDream/jsproxy)                                         | 2019-04-23 | Shell      | 2021-04-10   |
-|  7 | [rbac](https://github.com/seeden/rbac)                                                   | 2016-01-23 | JavaScript | 2021-04-10   |
-|  8 | [conduit](https://github.com/conduit-rust/conduit)                                       | 2015-05-17 | Rust       | 2021-03-05   |
-|  9 | [Memeye](https://github.com/JerryC8080/Memeye)                                           | 2017-03-07 | JavaScript | 2021-03-15   |
-| 10 | [pagekit](https://github.com/pagekit/pagekit)                                            | 2014-07-20 | PHP        | 2021-04-10   |
+| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)                                    | 2011-12-24 | VimL       | 2021-04-10   |
+|  2 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)                  | 2015-01-27 | md         | 2021-02-22   |
+|  3 | [awesome-go](https://github.com/avelino/awesome-go)                                     | 2014-07-07 | Go         | 2021-04-11   |
+|  4 | [rbac](https://github.com/seeden/rbac)                                                  | 2016-01-23 | JavaScript | 2021-04-10   |
+|  5 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md         | 2021-04-11   |
+|  6 | [ionic-babythings](https://github.com/my101du/ionic-babythings)                         | 2014-11-24 | JavaScript | 2020-05-10   |
+|  7 | [infoviz](https://github.com/nocoo/infoviz)                                             | 2012-08-22 | JavaScript | 2021-03-27   |
+|  8 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)                              | 2015-02-24 | Ruby       | 2021-01-24   |
+|  9 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)               | 2015-05-19 | Groovy     | 2021-02-20   |
+| 10 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                         | 2020-09-14 | Java       | 2021-04-12   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                         | 2015-05-15 | Shell      | 2021-04-13   |
-|  2 | [awesome-android-performance](https://github.com/Juude/awesome-android-performance) | 2015-09-18 | md         | 2021-04-12   |
-|  3 | [pagekit](https://github.com/pagekit/pagekit)                                       | 2014-07-20 | PHP        | 2021-04-11   |
-|  4 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                  | 2014-07-17 | Swift      | 2021-04-12   |
-|  5 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)                 | 2014-12-12 | Python     | 2021-04-08   |
-|  6 | [falcon-plus](https://github.com/open-falcon/falcon-plus)                           | 2019-10-31 | Go         | 2021-04-12   |
-|  7 | [rbac](https://github.com/seeden/rbac)                                              | 2016-01-23 | JavaScript | 2021-04-10   |
-|  8 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)                          | 2015-02-24 | Ruby       | 2021-01-24   |
-|  9 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)                            | 2015-05-22 | JavaScript | 2021-04-12   |
-| 10 | [leetcode](https://github.com/azl397985856/leetcode)                                | 2021-01-03 | JavaScript | 2021-04-13   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)            | 2015-05-22 | Shell       | 2021-03-13   |
+|  2 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                              | 2020-09-14 | Java        | 2021-04-14   |
+|  3 | [Hackintosh](https://github.com/daliansky/Hackintosh)                        | 2020-05-13 | Shell       | 2021-04-13   |
+|  4 | [restler](https://github.com/danwrong/restler)                               | 2015-05-22 | JavaScript  | 2021-04-12   |
+|  5 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java        | 2021-01-19   |
+|  6 | [SvUDID](https://github.com/smileEvday/SvUDID)                               | 2014-04-23 | Objective-C | 2020-09-28   |
+|  7 | [docker-redmine](https://github.com/sameersbn/docker-redmine)                | 2015-05-22 | Shell       | 2021-04-13   |
+|  8 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App)              | 2015-07-16 | Objective-C | 2020-09-26   |
+|  9 | [rbac](https://github.com/seeden/rbac)                                       | 2016-01-23 | JavaScript  | 2021-04-10   |
+| 10 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)       | 2015-01-27 | md          | 2021-02-22   |
 
 <!--END_SECTION:my_github-->

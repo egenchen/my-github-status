@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [nwui](https://github.com/go-nwui/nwui)                         | 2015-02-15 | Go           | 2020-07-31   |
-|  2 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)      | 2015-02-24 | Ruby         | 2021-01-24   |
-|  3 | [jscsrgen](https://github.com/ym/jscsrgen)                      | 2014-11-16 | CoffeeScript | 2019-07-22   |
-|  4 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App) | 2015-07-16 | Objective-C  | 2020-09-26   |
-|  5 | [SvUDID](https://github.com/smileEvday/SvUDID)                  | 2014-04-23 | Objective-C  | 2020-09-28   |
-|  6 | [SmsBackup](https://github.com/zgia/SmsBackup)                  | 2013-02-17 | md           | 2014-02-20   |
-|  7 | [tidb](https://github.com/pingcap/tidb)                         | 2015-09-07 | Go           | 2021-04-15   |
-|  8 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)  | 2014-05-08 | md           | 2021-04-05   |
-|  9 | [SharpKit](https://github.com/SharpKit/SharpKit)                | 2020-09-08 | C#           | 2021-03-24   |
-| 10 | [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)      | 2019-05-15 | JavaScript   | 2021-03-30   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) | 2016-03-27 | Python     | 2021-03-30   |
+|  2 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)                          | 2020-09-14 | Java       | 2021-04-16   |
+|  3 | [7days-golang](https://github.com/geektutu/7days-golang)                                      | 2020-10-08 | Go         | 2021-04-15   |
+|  4 | [leetcode](https://github.com/soulmachine/leetcode)                                           | 2017-07-17 | TeX        | 2021-04-15   |
+|  5 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)                     | 2015-05-19 | Groovy     | 2021-02-20   |
+|  6 | [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer)                                 | 2015-05-17 | Java       | 2021-04-13   |
+|  7 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                                  | 2018-12-10 | Go         | 2021-03-29   |
+|  8 | [core](https://github.com/cqrsfk/core)                                                        | 2016-03-10 | TypeScript | 2021-03-17   |
+|  9 | [katz](https://github.com/gnubert/katz)                                                       | 2015-07-20 | C          | 2020-08-02   |
+| 10 | [pagekit](https://github.com/pagekit/pagekit)                                                 | 2014-07-20 | PHP        | 2021-04-13   |
 
 <!--END_SECTION:my_github-->

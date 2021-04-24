@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)                           | 2014-05-08 | md          | 2021-04-05   |
-|  2 | [docker-debug](https://github.com/zeromake/docker-debug)                                 | 2019-03-22 | Go          | 2021-04-21   |
-|  3 | [livepool](https://github.com/rehorn/livepool)                                           | 2014-07-17 | JavaScript  | 2021-04-11   |
-|  4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university)    | 2021-03-10 | md          | 2021-04-23   |
-|  5 | [SvUDID](https://github.com/smileEvday/SvUDID)                                           | 2014-04-23 | Objective-C | 2020-09-28   |
-|  6 | [katz](https://github.com/gnubert/katz)                                                  | 2015-07-20 | C           | 2020-08-02   |
-|  7 | [jsproxy](https://github.com/EtherDream/jsproxy)                                         | 2019-04-23 | Shell       | 2021-04-22   |
-|  8 | [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin)                   | 2015-05-19 | Groovy      | 2021-03-08   |
-|  9 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                       | 2014-07-17 | Swift       | 2021-04-22   |
-| 10 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md          | 2021-04-22   |
+| ID |                             REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------|------------|------------|--------------|
+|  1 | [node-chat](https://github.com/czheo/node-chat)               | 2014-05-26 | JavaScript | 2021-04-17   |
+|  2 | [awesome-go](https://github.com/avelino/awesome-go)           | 2014-07-07 | Go         | 2021-04-24   |
+|  3 | [rust](https://github.com/rust-lang/rust)                     | 2015-05-16 | Rust       | 2021-04-24   |
+|  4 | [jsproxy](https://github.com/EtherDream/jsproxy)              | 2019-04-23 | Shell      | 2021-04-23   |
+|  5 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)           | 2017-03-12 | Vue        | 2021-04-23   |
+|  6 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook) | 2013-07-26 | C#         | 2021-04-23   |
+|  7 | [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)          | 2011-12-24 | VimL       | 2021-04-21   |
+|  8 | [pagekit](https://github.com/pagekit/pagekit)                 | 2014-07-20 | PHP        | 2021-04-23   |
+|  9 | [libnice](https://github.com/libnice/libnice)                 | 2015-07-17 | C          | 2021-04-23   |
+| 10 | [tenet](https://github.com/egenchen/tenet)                    | 2021-03-24 | md         | 2021-03-24   |
 
 <!--END_SECTION:my_github-->

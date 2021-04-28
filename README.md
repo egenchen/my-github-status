@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [mqtt.go](https://github.com/plucury/mqtt.go)                  | 2015-01-27 | Go           | 2021-04-13   |
-|  2 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)       | 2015-05-22 | JavaScript   | 2021-04-22   |
-|  3 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)    | 2015-05-15 | Shell        | 2021-04-26   |
-|  4 | [request](https://github.com/request/request)                  | 2015-05-22 | JavaScript   | 2021-04-26   |
-|  5 | [running_page](https://github.com/yihong0618/running_page)     | 2021-01-29 | Python       | 2021-04-26   |
-|  6 | [jscsrgen](https://github.com/ym/jscsrgen)                     | 2014-11-16 | CoffeeScript | 2019-07-22   |
-|  7 | [rust-zh](https://github.com/rustcc/rust-zh)                   | 2015-05-17 | md           | 2021-04-22   |
-|  8 | [pagekit](https://github.com/pagekit/pagekit)                  | 2014-07-20 | PHP          | 2021-04-23   |
-|  9 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                | 2020-09-14 | Java         | 2021-04-27   |
-| 10 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas) | 2014-11-26 | md           | 2019-02-14   |
+| ID |                                REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-freelancer](https://github.com/ckjbug/awesome-freelancer) | 2019-04-23 | md         | 2021-03-02   |
+|  2 | [pjsip](https://github.com/chebur/pjsip)                           | 2015-07-14 | C          | 2021-04-21   |
+|  3 | [marked](https://github.com/markedjs/marked)                       | 2011-07-24 | JavaScript | 2021-04-27   |
+|  4 | [Release](https://github.com/vczh-libraries/Release)               | 2020-09-11 | C++        | 2021-04-27   |
+|  5 | [v-vscode](https://github.com/monarrk/v-vscode)                    | 2019-05-08 | md         | 2020-05-15   |
+|  6 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                    | 2020-09-14 | Java       | 2021-04-28   |
+|  7 | [docker-debug](https://github.com/zeromake/docker-debug)           | 2019-03-22 | Go         | 2021-04-23   |
+|  8 | [tidb](https://github.com/pingcap/tidb)                            | 2015-09-07 | Go         | 2021-04-27   |
+|  9 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)         | 2015-02-24 | Ruby       | 2021-01-24   |
+| 10 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)         | 2018-12-10 | JavaScript | 2021-02-16   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)                                | 2014-05-08 | md         | 2021-04-05   |
-|  2 | [conduit](https://github.com/conduit-rust/conduit)                                            | 2015-05-17 | Rust       | 2021-04-25   |
-|  3 | [coding-interview-university](https://github.com/jwasham/coding-interview-university)         | 2021-03-10 | md         | 2021-05-03   |
-|  4 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                                  | 2018-12-10 | Go         | 2021-04-30   |
-|  5 | [SharpKit](https://github.com/SharpKit/SharpKit)                                              | 2020-09-08 | C#         | 2021-04-26   |
-|  6 | [v-vscode](https://github.com/monarrk/v-vscode)                                               | 2019-05-08 | md         | 2020-05-15   |
-|  7 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn)       | 2019-04-24 | md         | 2021-04-30   |
-|  8 | [infoviz](https://github.com/nocoo/infoviz)                                                   | 2012-08-22 | JavaScript | 2021-03-27   |
-|  9 | [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) | 2016-03-27 | Python     | 2021-04-23   |
-| 10 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)                                | 2014-11-26 | md         | 2019-02-14   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)                          | 2018-12-10 | JavaScript | 2021-02-16   |
+|  2 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                         | 2015-05-15 | Shell      | 2021-05-02   |
+|  3 | [rust-zh](https://github.com/rustcc/rust-zh)                                        | 2015-05-17 | md         | 2021-04-28   |
+|  4 | [core](https://github.com/cqrsfk/core)                                              | 2016-03-10 | TypeScript | 2021-04-19   |
+|  5 | [katz](https://github.com/gnubert/katz)                                             | 2015-07-20 | C          | 2020-08-02   |
+|  6 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)                 | 2014-12-12 | Python     | 2021-04-26   |
+|  7 | [marked](https://github.com/markedjs/marked)                                        | 2011-07-24 | JavaScript | 2021-05-03   |
+|  8 | [ladon](https://github.com/ory/ladon)                                               | 2019-02-13 | Go         | 2021-04-30   |
+|  9 | [awesome-android-performance](https://github.com/Juude/awesome-android-performance) | 2015-09-18 | md         | 2021-04-30   |
+| 10 | [restler](https://github.com/danwrong/restler)                                      | 2015-05-22 | JavaScript | 2021-04-12   |
 
 <!--END_SECTION:my_github-->

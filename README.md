@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [pyspider](https://github.com/binux/pyspider)                          | 2016-08-20 | Python       | 2021-05-04   |
-|  2 | [MT7601](https://github.com/di3online/MT7601)                          | 2015-01-22 | C            | 2021-01-29   |
-|  3 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)               | 2015-05-22 | JavaScript   | 2021-05-04   |
-|  4 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)      | 2015-05-22 | Shell        | 2021-03-13   |
-|  5 | [redteam_vul](https://github.com/r0eXpeR/redteam_vul)                  | 2021-03-11 | md           | 2021-05-04   |
-|  6 | [7days-golang](https://github.com/geektutu/7days-golang)               | 2020-10-08 | Go           | 2021-05-04   |
-|  7 | [jscsrgen](https://github.com/ym/jscsrgen)                             | 2014-11-16 | CoffeeScript | 2021-04-28   |
-|  8 | [tidb](https://github.com/pingcap/tidb)                                | 2015-09-07 | Go           | 2021-05-05   |
-|  9 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document) | 2015-01-27 | md           | 2021-02-22   |
-| 10 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)            | 2015-05-15 | Shell        | 2021-05-04   |
+| ID |                                REPO                                | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [rust](https://github.com/rust-lang/rust)                          | 2015-05-16 | Rust        | 2021-05-06   |
+|  2 | [redteam_vul](https://github.com/r0eXpeR/redteam_vul)              | 2021-03-11 | md          | 2021-05-04   |
+|  3 | [golang-evdev](https://github.com/gvalkov/golang-evdev)            | 2015-07-05 | Go          | 2021-03-11   |
+|  4 | [pagekit](https://github.com/pagekit/pagekit)                      | 2014-07-20 | PHP         | 2021-05-04   |
+|  5 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                 | 2014-07-17 | Swift       | 2021-05-05   |
+|  6 | [core](https://github.com/cqrsfk/core)                             | 2016-03-10 | TypeScript  | 2021-04-19   |
+|  7 | [personal-influxdb](https://github.com/c99koder/personal-influxdb) | 2021-04-23 | Python      | 2021-05-05   |
+|  8 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App)    | 2015-07-16 | Objective-C | 2020-09-26   |
+|  9 | [docker-redmine](https://github.com/sameersbn/docker-redmine)      | 2015-05-22 | Shell       | 2021-05-04   |
+| 10 | [rust-zh](https://github.com/rustcc/rust-zh)                       | 2015-05-17 | md          | 2021-04-28   |
 
 <!--END_SECTION:my_github-->

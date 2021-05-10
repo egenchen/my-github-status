@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)                          | 2019-05-15 | JavaScript | 2021-05-07   |
-|  2 | [falcon-plus](https://github.com/open-falcon/falcon-plus)                           | 2019-10-31 | Go         | 2021-05-07   |
-|  3 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)                   | 2015-05-22 | Shell      | 2021-03-13   |
-|  4 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                  | 2014-07-17 | Swift      | 2021-05-08   |
-|  5 | [marked](https://github.com/markedjs/marked)                                        | 2011-07-24 | JavaScript | 2021-05-09   |
-|  6 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                       | 2013-07-26 | C#         | 2021-05-01   |
-|  7 | [awesome-android-performance](https://github.com/Juude/awesome-android-performance) | 2015-09-18 | md         | 2021-05-08   |
-|  8 | [rust-zh](https://github.com/rustcc/rust-zh)                                        | 2015-05-17 | md         | 2021-05-08   |
-|  9 | [Release](https://github.com/vczh-libraries/Release)                                | 2020-09-11 | C++        | 2021-05-08   |
-| 10 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)                            | 2015-05-22 | JavaScript | 2021-05-04   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [golang-evdev](https://github.com/gvalkov/golang-evdev)                      | 2015-07-05 | Go         | 2021-03-11   |
+|  2 | [restler](https://github.com/danwrong/restler)                               | 2015-05-22 | JavaScript | 2021-05-07   |
+|  3 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                   | 2021-05-08 | Python     | 2021-05-10   |
+|  4 | [SmsBackup](https://github.com/zgia/SmsBackup)                               | 2013-02-17 | md         | 2014-02-20   |
+|  5 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)               | 2014-05-08 | md         | 2021-04-05   |
+|  6 | [v-vscode](https://github.com/monarrk/v-vscode)                              | 2019-05-08 | md         | 2020-05-15   |
+|  7 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                  | 2015-05-15 | Shell      | 2021-05-07   |
+|  8 | [awesome-go](https://github.com/avelino/awesome-go)                          | 2014-07-07 | Go         | 2021-05-10   |
+|  9 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java       | 2021-05-07   |
+| 10 | [Release](https://github.com/vczh-libraries/Release)                         | 2020-09-11 | C++        | 2021-05-08   |
 
 <!--END_SECTION:my_github-->

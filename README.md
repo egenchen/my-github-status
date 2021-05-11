@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [golang-evdev](https://github.com/gvalkov/golang-evdev)                      | 2015-07-05 | Go         | 2021-03-11   |
-|  2 | [restler](https://github.com/danwrong/restler)                               | 2015-05-22 | JavaScript | 2021-05-07   |
-|  3 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                   | 2021-05-08 | Python     | 2021-05-10   |
-|  4 | [SmsBackup](https://github.com/zgia/SmsBackup)                               | 2013-02-17 | md         | 2014-02-20   |
-|  5 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)               | 2014-05-08 | md         | 2021-04-05   |
-|  6 | [v-vscode](https://github.com/monarrk/v-vscode)                              | 2019-05-08 | md         | 2020-05-15   |
-|  7 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                  | 2015-05-15 | Shell      | 2021-05-07   |
-|  8 | [awesome-go](https://github.com/avelino/awesome-go)                          | 2014-07-07 | Go         | 2021-05-10   |
-|  9 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java       | 2021-05-07   |
-| 10 | [Release](https://github.com/vczh-libraries/Release)                         | 2020-09-11 | C++        | 2021-05-08   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [infoviz](https://github.com/nocoo/infoviz)                                                   | 2012-08-22 | JavaScript  | 2021-03-27   |
+|  2 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                                 | 2013-07-26 | C#          | 2021-05-10   |
+|  3 | [Hackintosh](https://github.com/daliansky/Hackintosh)                                         | 2020-05-13 | Shell       | 2021-05-10   |
+|  4 | [leetcode](https://github.com/soulmachine/leetcode)                                           | 2017-07-17 | TeX         | 2021-05-10   |
+|  5 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)                     | 2015-05-19 | Groovy      | 2021-02-20   |
+|  6 | [simple-sso](https://github.com/samitpal/simple-sso)                                          | 2018-12-10 | Go          | 2021-04-15   |
+|  7 | [SharpKit](https://github.com/SharpKit/SharpKit)                                              | 2020-09-08 | C#          | 2021-04-26   |
+|  8 | [pyspider](https://github.com/binux/pyspider)                                                 | 2016-08-20 | Python      | 2021-05-10   |
+|  9 | [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) | 2016-03-27 | Python      | 2021-04-23   |
+| 10 | [SvUDID](https://github.com/smileEvday/SvUDID)                                                | 2014-04-23 | Objective-C | 2020-09-28   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                        | 2020-09-14 | Java       | 2021-05-16   |
-|  2 | [livepool](https://github.com/rehorn/livepool)                         | 2014-07-17 | JavaScript | 2021-04-11   |
-|  3 | [Release](https://github.com/vczh-libraries/Release)                   | 2020-09-11 | C++        | 2021-05-15   |
-|  4 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document) | 2015-01-27 | md         | 2021-02-22   |
-|  5 | [MT7601](https://github.com/di3online/MT7601)                          | 2015-01-22 | C          | 2021-01-29   |
-|  6 | [redteam_vul](https://github.com/r0eXpeR/redteam_vul)                  | 2021-03-11 | md         | 2021-05-15   |
-|  7 | [awesome-freelancer](https://github.com/ckjbug/awesome-freelancer)     | 2019-04-23 | md         | 2021-03-02   |
-|  8 | [request](https://github.com/request/request)                          | 2015-05-22 | JavaScript | 2021-05-15   |
-|  9 | [ladon](https://github.com/ory/ladon)                                  | 2019-02-13 | Go         | 2021-05-13   |
-| 10 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                     | 2014-07-17 | Swift      | 2021-05-15   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [stunserver](https://github.com/jselbie/stunserver)                                   | 2015-07-17 | C++        | 2021-05-16   |
+|  2 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md         | 2021-05-17   |
+|  3 | [katz](https://github.com/gnubert/katz)                                               | 2015-07-20 | C          | 2020-08-02   |
+|  4 | [node-odata](https://github.com/TossShinHwa/node-odata)                               | 2014-10-17 | JavaScript | 2021-04-13   |
+|  5 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                          | 2021-05-03 | TypeScript | 2021-05-16   |
+|  6 | [rust-zh](https://github.com/rustcc/rust-zh)                                          | 2015-05-17 | md         | 2021-05-13   |
+|  7 | [NoCol](https://github.com/johnBuffer/NoCol)                                          | 2021-05-02 | C++        | 2021-05-16   |
+|  8 | [simple-sso](https://github.com/samitpal/simple-sso)                                  | 2018-12-10 | Go         | 2021-04-15   |
+|  9 | [falcon-plus](https://github.com/open-falcon/falcon-plus)                             | 2019-10-31 | Go         | 2021-05-16   |
+| 10 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)                | 2015-01-27 | md         | 2021-02-22   |
 
 <!--END_SECTION:my_github-->

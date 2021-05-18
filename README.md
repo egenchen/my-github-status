@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [stunserver](https://github.com/jselbie/stunserver)                                   | 2015-07-17 | C++        | 2021-05-16   |
-|  2 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md         | 2021-05-17   |
-|  3 | [katz](https://github.com/gnubert/katz)                                               | 2015-07-20 | C          | 2020-08-02   |
-|  4 | [node-odata](https://github.com/TossShinHwa/node-odata)                               | 2014-10-17 | JavaScript | 2021-04-13   |
-|  5 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                          | 2021-05-03 | TypeScript | 2021-05-16   |
-|  6 | [rust-zh](https://github.com/rustcc/rust-zh)                                          | 2015-05-17 | md         | 2021-05-13   |
-|  7 | [NoCol](https://github.com/johnBuffer/NoCol)                                          | 2021-05-02 | C++        | 2021-05-16   |
-|  8 | [simple-sso](https://github.com/samitpal/simple-sso)                                  | 2018-12-10 | Go         | 2021-04-15   |
-|  9 | [falcon-plus](https://github.com/open-falcon/falcon-plus)                             | 2019-10-31 | Go         | 2021-05-16   |
-| 10 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)                | 2015-01-27 | md         | 2021-02-22   |
+| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [libnice](https://github.com/libnice/libnice)                             | 2015-07-17 | C          | 2021-05-13   |
+|  2 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin) | 2015-05-19 | Groovy     | 2021-02-20   |
+|  3 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)                | 2018-12-10 | JavaScript | 2021-02-16   |
+|  4 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)                | 2021-05-08 | Python     | 2021-05-18   |
+|  5 | [Release](https://github.com/vczh-libraries/Release)                      | 2020-09-11 | C++        | 2021-05-15   |
+|  6 | [rust-zh](https://github.com/rustcc/rust-zh)                              | 2015-05-17 | md         | 2021-05-13   |
+|  7 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)            | 2014-05-08 | md         | 2021-04-05   |
+|  8 | [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin)    | 2015-05-19 | Groovy     | 2021-03-08   |
+|  9 | [falcon-plus](https://github.com/open-falcon/falcon-plus)                 | 2019-10-31 | Go         | 2021-05-17   |
+| 10 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)      | 2020-09-14 | Java       | 2021-05-17   |
 
 <!--END_SECTION:my_github-->

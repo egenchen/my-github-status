@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [rust](https://github.com/rust-lang/rust)                       | 2015-05-16 | Rust        | 2021-05-19   |
-|  2 | [restler](https://github.com/danwrong/restler)                  | 2015-05-22 | JavaScript  | 2021-05-07   |
-|  3 | [mqtt.go](https://github.com/plucury/mqtt.go)                   | 2015-01-27 | Go          | 2021-04-13   |
-|  4 | [Hackintosh](https://github.com/daliansky/Hackintosh)           | 2020-05-13 | Shell       | 2021-05-18   |
-|  5 | [ionic-babythings](https://github.com/my101du/ionic-babythings) | 2014-11-24 | JavaScript  | 2021-04-19   |
-|  6 | [rbac](https://github.com/seeden/rbac)                          | 2016-01-23 | JavaScript  | 2021-05-06   |
-|  7 | [stunserver](https://github.com/jselbie/stunserver)             | 2015-07-17 | C++         | 2021-05-18   |
-|  8 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                 | 2015-07-14 | Objective-C | 2021-05-03   |
-|  9 | [leetcode](https://github.com/soulmachine/leetcode)             | 2017-07-17 | TeX         | 2021-05-18   |
-| 10 | [pjsip](https://github.com/chebur/pjsip)                        | 2015-07-14 | C           | 2021-05-15   |
+| ID |                                  REPO                                  | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                     | 2014-12-12 | Python   | 2021-03-13   |
+|  2 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                        | 2020-09-14 | Java     | 2021-05-20   |
+|  3 | [pjsip](https://github.com/chebur/pjsip)                               | 2015-07-14 | C        | 2021-05-15   |
+|  4 | [jsproxy](https://github.com/EtherDream/jsproxy)                       | 2019-04-23 | Shell    | 2021-05-19   |
+|  5 | [stunserver](https://github.com/jselbie/stunserver)                    | 2015-07-17 | C++      | 2021-05-19   |
+|  6 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)    | 2014-12-12 | Python   | 2021-05-13   |
+|  7 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)         | 2014-11-26 | md       | 2019-02-14   |
+|  8 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document) | 2015-01-27 | md       | 2021-02-22   |
+|  9 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)             | 2015-02-24 | Ruby     | 2021-01-24   |
+| 10 | [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) | 2015-05-19 | Groovy   | 2021-03-08   |
 
 <!--END_SECTION:my_github-->

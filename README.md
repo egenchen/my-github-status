@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [SmsBackup](https://github.com/zgia/SmsBackup)                               | 2013-02-17 | md           | 2014-02-20   |
-|  2 | [rbac](https://github.com/seeden/rbac)                                       | 2016-01-23 | JavaScript   | 2021-05-06   |
-|  3 | [canku](https://github.com/willerce/canku)                                   | 2013-01-10 | JavaScript   | 2021-02-10   |
-|  4 | [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer)                | 2015-05-17 | Java         | 2021-05-10   |
-|  5 | [Memeye](https://github.com/JerryC8080/Memeye)                               | 2017-03-07 | JavaScript   | 2021-05-22   |
-|  6 | [marked](https://github.com/markedjs/marked)                                 | 2011-07-24 | JavaScript   | 2021-05-24   |
-|  7 | [Hackintosh](https://github.com/daliansky/Hackintosh)                        | 2020-05-13 | Shell        | 2021-05-24   |
-|  8 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java         | 2021-05-13   |
-|  9 | [jscsrgen](https://github.com/ym/jscsrgen)                                   | 2014-11-16 | CoffeeScript | 2021-04-28   |
-| 10 | [falcon-plus](https://github.com/open-falcon/falcon-plus)                    | 2019-10-31 | Go           | 2021-05-24   |
+| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 2020-09-14 | Java       | 2021-05-26   |
+|  2 | [core](https://github.com/cqrsfk/core)                               | 2016-03-10 | TypeScript | 2021-04-19   |
+|  3 | [katz](https://github.com/gnubert/katz)                              | 2015-07-20 | C          | 2020-08-02   |
+|  4 | [ladon](https://github.com/ory/ladon)                                | 2019-02-13 | Go         | 2021-05-23   |
+|  5 | [Memeye](https://github.com/JerryC8080/Memeye)                       | 2017-03-07 | JavaScript | 2021-05-22   |
+|  6 | [pjsip](https://github.com/chebur/pjsip)                             | 2015-07-14 | C          | 2021-05-15   |
+|  7 | [node-chat](https://github.com/czheo/node-chat)                      | 2014-05-26 | JavaScript | 2021-04-17   |
+|  8 | [running_page](https://github.com/yihong0618/running_page)           | 2021-01-29 | Python     | 2021-05-25   |
+|  9 | [stunserver](https://github.com/jselbie/stunserver)                  | 2015-07-17 | C++        | 2021-05-19   |
+| 10 | [v-vscode](https://github.com/monarrk/v-vscode)                      | 2019-05-08 | md         | 2020-05-15   |
 
 <!--END_SECTION:my_github-->

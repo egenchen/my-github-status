@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [SmsBackup](https://github.com/zgia/SmsBackup)                                        | 2013-02-17 | md         | 2014-02-20   |
-|  2 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)                     | 2015-05-22 | Shell      | 2021-03-13   |
-|  3 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                           | 2015-05-15 | Shell      | 2021-05-30   |
-|  4 | [node-odata](https://github.com/TossShinHwa/node-odata)                               | 2014-10-17 | JavaScript | 2021-05-25   |
-|  5 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                                    | 2014-12-12 | Python     | 2021-03-13   |
-|  6 | [v-vscode](https://github.com/monarrk/v-vscode)                                       | 2019-05-08 | md         | 2020-05-15   |
-|  7 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md         | 2021-05-31   |
-|  8 | [node-chat](https://github.com/czheo/node-chat)                                       | 2014-05-26 | JavaScript | 2021-04-17   |
-|  9 | [node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain)                  | 2016-03-10 | JavaScript | 2021-05-28   |
-| 10 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)                              | 2015-05-22 | JavaScript | 2021-05-20   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                              | 2015-05-15 | Shell       | 2021-05-31   |
+|  2 | [node-odata](https://github.com/TossShinHwa/node-odata)                                  | 2014-10-17 | JavaScript  | 2021-05-25   |
+|  3 | [docker-debug](https://github.com/zeromake/docker-debug)                                 | 2019-03-22 | Go          | 2021-05-11   |
+|  4 | [SvUDID](https://github.com/smileEvday/SvUDID)                                           | 2014-04-23 | Objective-C | 2020-09-28   |
+|  5 | [node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain)                     | 2016-03-10 | JavaScript  | 2021-05-28   |
+|  6 | [v-vscode](https://github.com/monarrk/v-vscode)                                          | 2019-05-08 | md          | 2020-05-15   |
+|  7 | [infoviz](https://github.com/nocoo/infoviz)                                              | 2012-08-22 | JavaScript  | 2021-05-31   |
+|  8 | [pyspider](https://github.com/binux/pyspider)                                            | 2016-08-20 | Python      | 2021-05-31   |
+|  9 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md          | 2021-05-31   |
+| 10 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                                       | 2014-12-12 | Python      | 2021-03-13   |
 
 <!--END_SECTION:my_github-->

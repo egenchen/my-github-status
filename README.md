@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [9-Patch-Resizer](https://github.com/soymonitus/9-Patch-Resizer)    | 2015-05-16 | Java       | 2020-04-06   |
-|  2 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)         | 2015-05-15 | Shell      | 2021-06-05   |
-|  3 | [rust-zh](https://github.com/rustcc/rust-zh)                        | 2015-05-17 | md         | 2021-06-04   |
-|  4 | [mqtt.go](https://github.com/plucury/mqtt.go)                       | 2015-01-27 | Go         | 2021-06-04   |
-|  5 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler) | 2014-12-12 | Python     | 2021-06-04   |
-|  6 | [stunserver](https://github.com/jselbie/stunserver)                 | 2015-07-17 | C++        | 2021-06-03   |
-|  7 | [codeobscure](https://github.com/kaich/codeobscure)                 | 2019-04-23 | Ruby       | 2021-05-21   |
-|  8 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                  | 2014-07-17 | Swift      | 2021-06-05   |
-|  9 | [katz](https://github.com/gnubert/katz)                             | 2015-07-20 | C          | 2020-08-02   |
-| 10 | [infoviz](https://github.com/nocoo/infoviz)                         | 2012-08-22 | JavaScript | 2021-05-31   |
+| ID |                                         REPO                                          | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|--------------|--------------|
+|  1 | [pagekit](https://github.com/pagekit/pagekit)                                         | 2014-07-20 | PHP          | 2021-06-06   |
+|  2 | [simple-sso](https://github.com/samitpal/simple-sso)                                  | 2018-12-10 | Go           | 2021-06-04   |
+|  3 | [conduit](https://github.com/conduit-rust/conduit)                                    | 2015-05-17 | Rust         | 2021-04-25   |
+|  4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md           | 2021-06-07   |
+|  5 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)                   | 2014-12-12 | Python       | 2021-06-04   |
+|  6 | [marked](https://github.com/markedjs/marked)                                          | 2011-07-24 | JavaScript   | 2021-06-07   |
+|  7 | [leetcode](https://github.com/soulmachine/leetcode)                                   | 2017-07-17 | TeX          | 2021-06-07   |
+|  8 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)                        | 2014-11-26 | md           | 2019-02-14   |
+|  9 | [ionic-babythings](https://github.com/my101du/ionic-babythings)                       | 2014-11-24 | JavaScript   | 2021-04-19   |
+| 10 | [jscsrgen](https://github.com/ym/jscsrgen)                                            | 2014-11-16 | CoffeeScript | 2021-04-28   |
 
 <!--END_SECTION:my_github-->

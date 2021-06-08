@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |   LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|--------------|--------------|
-|  1 | [pagekit](https://github.com/pagekit/pagekit)                                         | 2014-07-20 | PHP          | 2021-06-06   |
-|  2 | [simple-sso](https://github.com/samitpal/simple-sso)                                  | 2018-12-10 | Go           | 2021-06-04   |
-|  3 | [conduit](https://github.com/conduit-rust/conduit)                                    | 2015-05-17 | Rust         | 2021-04-25   |
-|  4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md           | 2021-06-07   |
-|  5 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)                   | 2014-12-12 | Python       | 2021-06-04   |
-|  6 | [marked](https://github.com/markedjs/marked)                                          | 2011-07-24 | JavaScript   | 2021-06-07   |
-|  7 | [leetcode](https://github.com/soulmachine/leetcode)                                   | 2017-07-17 | TeX          | 2021-06-07   |
-|  8 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)                        | 2014-11-26 | md           | 2019-02-14   |
-|  9 | [ionic-babythings](https://github.com/my101du/ionic-babythings)                       | 2014-11-24 | JavaScript   | 2021-04-19   |
-| 10 | [jscsrgen](https://github.com/ym/jscsrgen)                                            | 2014-11-16 | CoffeeScript | 2021-04-28   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [MT7601](https://github.com/di3online/MT7601)                                         | 2015-01-22 | C           | 2021-06-06   |
+|  2 | [SharpKit](https://github.com/SharpKit/SharpKit)                                      | 2020-09-08 | C#          | 2021-05-27   |
+|  3 | [Memeye](https://github.com/JerryC8080/Memeye)                                        | 2017-03-07 | JavaScript  | 2021-06-01   |
+|  4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md          | 2021-06-08   |
+|  5 | [NoCol](https://github.com/johnBuffer/NoCol)                                          | 2021-05-02 | C++         | 2021-06-08   |
+|  6 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                       | 2015-07-14 | Objective-C | 2021-05-03   |
+|  7 | [core](https://github.com/cqrsfk/core)                                                | 2016-03-10 | TypeScript  | 2021-04-19   |
+|  8 | [rust](https://github.com/rust-lang/rust)                                             | 2015-05-16 | Rust        | 2021-06-08   |
+|  9 | [cloud-act2](https://github.com/idcos/cloud-act2)                                     | 2021-06-07 | Go          | 2021-06-07   |
+| 10 | [node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain)                  | 2016-03-10 | JavaScript  | 2021-06-02   |
 
 <!--END_SECTION:my_github-->

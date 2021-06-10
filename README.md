@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                 REPO                                 | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|----------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Release](https://github.com/vczh-libraries/Release)                 | 2020-09-11 | C++         | 2021-06-08   |
-|  2 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 2020-09-14 | Java        | 2021-06-08   |
-|  3 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)        | 2013-07-26 | C#          | 2021-05-31   |
-|  4 | [rust-zh](https://github.com/rustcc/rust-zh)                         | 2015-05-17 | md          | 2021-06-04   |
-|  5 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)    | 2015-05-22 | Shell       | 2021-03-13   |
-|  6 | [ladon](https://github.com/ory/ladon)                                | 2019-02-13 | Go          | 2021-06-08   |
-|  7 | [Cloudboot](https://github.com/idcos/Cloudboot)                      | 2021-06-07 | md          | 2021-06-07   |
-|  8 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                      | 2015-07-14 | Objective-C | 2021-05-03   |
-|  9 | [rust](https://github.com/rust-lang/rust)                            | 2015-05-16 | Rust        | 2021-06-08   |
-| 10 | [node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain) | 2016-03-10 | JavaScript  | 2021-06-08   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                             | 2018-12-10 | Go         | 2021-05-12   |
+|  2 | [Cloudboot](https://github.com/idcos/Cloudboot)                                          | 2021-06-07 | md         | 2021-06-07   |
+|  3 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)                           | 2014-05-08 | md         | 2021-04-05   |
+|  4 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)                   | 2015-01-27 | md         | 2021-02-22   |
+|  5 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md         | 2021-06-09   |
+|  6 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                             | 2021-05-03 | TypeScript | 2021-06-09   |
+|  7 | [simple-sso](https://github.com/samitpal/simple-sso)                                     | 2018-12-10 | Go         | 2021-06-07   |
+|  8 | [rbac](https://github.com/seeden/rbac)                                                   | 2016-01-23 | JavaScript | 2021-06-09   |
+|  9 | [tidb](https://github.com/pingcap/tidb)                                                  | 2015-09-07 | Go         | 2021-06-09   |
+| 10 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                            | 2013-07-26 | C#         | 2021-06-09   |
 
 <!--END_SECTION:my_github-->

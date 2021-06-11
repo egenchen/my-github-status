@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                             | 2018-12-10 | Go         | 2021-05-12   |
-|  2 | [Cloudboot](https://github.com/idcos/Cloudboot)                                          | 2021-06-07 | md         | 2021-06-07   |
-|  3 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)                           | 2014-05-08 | md         | 2021-04-05   |
-|  4 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)                   | 2015-01-27 | md         | 2021-02-22   |
-|  5 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md         | 2021-06-09   |
-|  6 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                             | 2021-05-03 | TypeScript | 2021-06-09   |
-|  7 | [simple-sso](https://github.com/samitpal/simple-sso)                                     | 2018-12-10 | Go         | 2021-06-07   |
-|  8 | [rbac](https://github.com/seeden/rbac)                                                   | 2016-01-23 | JavaScript | 2021-06-09   |
-|  9 | [tidb](https://github.com/pingcap/tidb)                                                  | 2015-09-07 | Go         | 2021-06-09   |
-| 10 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                            | 2013-07-26 | C#         | 2021-06-09   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Hackintosh](https://github.com/daliansky/Hackintosh)                                    | 2020-05-13 | Shell       | 2021-06-10   |
+|  2 | [conduit](https://github.com/conduit-rust/conduit)                                       | 2015-05-17 | Rust        | 2021-04-25   |
+|  3 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md          | 2021-06-10   |
+|  4 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                          | 2020-09-14 | Java        | 2021-06-10   |
+|  5 | [leetcode](https://github.com/soulmachine/leetcode)                                      | 2017-07-17 | TeX         | 2021-06-11   |
+|  6 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                          | 2015-07-14 | Objective-C | 2021-05-03   |
+|  7 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn)  | 2019-04-24 | md          | 2021-06-10   |
+|  8 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App)                          | 2015-07-16 | Objective-C | 2020-09-26   |
+|  9 | [v-vscode](https://github.com/monarrk/v-vscode)                                          | 2019-05-08 | md          | 2020-05-15   |
+| 10 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                      | 2017-03-12 | Vue         | 2021-06-10   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Hackintosh](https://github.com/daliansky/Hackintosh)                                    | 2020-05-13 | Shell       | 2021-06-10   |
-|  2 | [conduit](https://github.com/conduit-rust/conduit)                                       | 2015-05-17 | Rust        | 2021-04-25   |
-|  3 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md          | 2021-06-10   |
-|  4 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                          | 2020-09-14 | Java        | 2021-06-10   |
-|  5 | [leetcode](https://github.com/soulmachine/leetcode)                                      | 2017-07-17 | TeX         | 2021-06-11   |
-|  6 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                          | 2015-07-14 | Objective-C | 2021-05-03   |
-|  7 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn)  | 2019-04-24 | md          | 2021-06-10   |
-|  8 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App)                          | 2015-07-16 | Objective-C | 2020-09-26   |
-|  9 | [v-vscode](https://github.com/monarrk/v-vscode)                                          | 2019-05-08 | md          | 2020-05-15   |
-| 10 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                      | 2017-03-12 | Vue         | 2021-06-10   |
+| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [core](https://github.com/cqrsfk/core)                                                | 2016-03-10 | TypeScript  | 2021-04-19   |
+|  2 | [SvUDID](https://github.com/smileEvday/SvUDID)                                        | 2014-04-23 | Objective-C | 2020-09-28   |
+|  3 | [pyspider](https://github.com/binux/pyspider)                                         | 2016-08-20 | Python      | 2021-06-11   |
+|  4 | [rust](https://github.com/rust-lang/rust)                                             | 2015-05-16 | Rust        | 2021-06-11   |
+|  5 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                       | 2015-07-14 | Objective-C | 2021-05-03   |
+|  6 | [katz](https://github.com/gnubert/katz)                                               | 2015-07-20 | C           | 2020-08-02   |
+|  7 | [node-odata](https://github.com/TossShinHwa/node-odata)                               | 2014-10-17 | JavaScript  | 2021-06-10   |
+|  8 | [NoCol](https://github.com/johnBuffer/NoCol)                                          | 2021-05-02 | C++         | 2021-06-12   |
+|  9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md          | 2021-06-12   |
+| 10 | [awesome-go](https://github.com/avelino/awesome-go)                                   | 2014-07-07 | Go          | 2021-06-12   |
 
 <!--END_SECTION:my_github-->

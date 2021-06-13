@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [core](https://github.com/cqrsfk/core)                                                | 2016-03-10 | TypeScript  | 2021-04-19   |
-|  2 | [SvUDID](https://github.com/smileEvday/SvUDID)                                        | 2014-04-23 | Objective-C | 2020-09-28   |
-|  3 | [pyspider](https://github.com/binux/pyspider)                                         | 2016-08-20 | Python      | 2021-06-11   |
-|  4 | [rust](https://github.com/rust-lang/rust)                                             | 2015-05-16 | Rust        | 2021-06-11   |
-|  5 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                       | 2015-07-14 | Objective-C | 2021-05-03   |
-|  6 | [katz](https://github.com/gnubert/katz)                                               | 2015-07-20 | C           | 2020-08-02   |
-|  7 | [node-odata](https://github.com/TossShinHwa/node-odata)                               | 2014-10-17 | JavaScript  | 2021-06-10   |
-|  8 | [NoCol](https://github.com/johnBuffer/NoCol)                                          | 2021-05-02 | C++         | 2021-06-12   |
-|  9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md          | 2021-06-12   |
-| 10 | [awesome-go](https://github.com/avelino/awesome-go)                                   | 2014-07-07 | Go          | 2021-06-12   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [rust](https://github.com/rust-lang/rust)                                                     | 2015-05-16 | Rust       | 2021-06-12   |
+|  2 | [Hackintosh](https://github.com/daliansky/Hackintosh)                                         | 2020-05-13 | Shell      | 2021-06-12   |
+|  3 | [SmsBackup](https://github.com/zgia/SmsBackup)                                                | 2013-02-17 | md         | 2014-02-20   |
+|  4 | [leetcode](https://github.com/azl397985856/leetcode)                                          | 2021-01-03 | JavaScript | 2021-06-12   |
+|  5 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo)                  | 2019-04-17 | Java       | 2021-05-13   |
+|  6 | [infoviz](https://github.com/nocoo/infoviz)                                                   | 2012-08-22 | JavaScript | 2021-05-31   |
+|  7 | [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) | 2016-03-27 | Python     | 2021-06-09   |
+|  8 | [awesome-go](https://github.com/avelino/awesome-go)                                           | 2014-07-07 | Go         | 2021-06-12   |
+|  9 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)                                    | 2018-12-10 | JavaScript | 2021-02-16   |
+| 10 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                           | 2017-03-12 | Vue        | 2021-06-12   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [rust](https://github.com/rust-lang/rust)                                                     | 2015-05-16 | Rust       | 2021-06-12   |
-|  2 | [Hackintosh](https://github.com/daliansky/Hackintosh)                                         | 2020-05-13 | Shell      | 2021-06-12   |
-|  3 | [SmsBackup](https://github.com/zgia/SmsBackup)                                                | 2013-02-17 | md         | 2014-02-20   |
-|  4 | [leetcode](https://github.com/azl397985856/leetcode)                                          | 2021-01-03 | JavaScript | 2021-06-12   |
-|  5 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo)                  | 2019-04-17 | Java       | 2021-05-13   |
-|  6 | [infoviz](https://github.com/nocoo/infoviz)                                                   | 2012-08-22 | JavaScript | 2021-05-31   |
-|  7 | [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) | 2016-03-27 | Python     | 2021-06-09   |
-|  8 | [awesome-go](https://github.com/avelino/awesome-go)                                           | 2014-07-07 | Go         | 2021-06-12   |
-|  9 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)                                    | 2018-12-10 | JavaScript | 2021-02-16   |
-| 10 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                           | 2017-03-12 | Vue        | 2021-06-12   |
+| ID |                              REPO                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [rbac](https://github.com/seeden/rbac)                          | 2016-01-23 | JavaScript  | 2021-06-11   |
+|  2 | [infoviz](https://github.com/nocoo/infoviz)                     | 2012-08-22 | JavaScript  | 2021-05-31   |
+|  3 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                 | 2020-09-14 | Java        | 2021-06-14   |
+|  4 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App) | 2015-07-16 | Objective-C | 2020-09-26   |
+|  5 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)    | 2021-05-03 | TypeScript  | 2021-06-13   |
+|  6 | [pagekit](https://github.com/pagekit/pagekit)                   | 2014-07-20 | PHP         | 2021-06-10   |
+|  7 | [MT7601](https://github.com/di3online/MT7601)                   | 2015-01-22 | C           | 2021-06-06   |
+|  8 | [leetcode](https://github.com/azl397985856/leetcode)            | 2021-01-03 | JavaScript  | 2021-06-13   |
+|  9 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)  | 2014-05-08 | md          | 2021-04-05   |
+| 10 | [leetcode](https://github.com/soulmachine/leetcode)             | 2017-07-17 | TeX         | 2021-06-13   |
 
 <!--END_SECTION:my_github-->

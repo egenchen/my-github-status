@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                               | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [stunserver](https://github.com/jselbie/stunserver)             | 2015-07-17 | C++         | 2021-06-12   |
-|  2 | [7days-golang](https://github.com/geektutu/7days-golang)        | 2020-10-08 | Go          | 2021-06-14   |
-|  3 | [Cloudboot](https://github.com/idcos/Cloudboot)                 | 2021-06-07 | md          | 2021-06-12   |
-|  4 | [marked](https://github.com/markedjs/marked)                    | 2011-07-24 | JavaScript  | 2021-06-14   |
-|  5 | [pyspider](https://github.com/binux/pyspider)                   | 2016-08-20 | Python      | 2021-06-14   |
-|  6 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App) | 2015-07-16 | Objective-C | 2020-09-26   |
-|  7 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)        | 2015-05-22 | JavaScript  | 2021-06-14   |
-|  8 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)      | 2021-05-08 | Python      | 2021-06-15   |
-|  9 | [leetcode](https://github.com/azl397985856/leetcode)            | 2021-01-03 | JavaScript  | 2021-06-14   |
-| 10 | [cloud-act2](https://github.com/idcos/cloud-act2)               | 2021-06-07 | Go          | 2021-06-07   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java        | 2021-05-13   |
+|  2 | [Hackintosh](https://github.com/daliansky/Hackintosh)                        | 2020-05-13 | Shell       | 2021-06-15   |
+|  3 | [SvUDID](https://github.com/smileEvday/SvUDID)                               | 2014-04-23 | Objective-C | 2020-09-28   |
+|  4 | [leetcode](https://github.com/soulmachine/leetcode)                          | 2017-07-17 | TeX         | 2021-06-15   |
+|  5 | [jsproxy](https://github.com/EtherDream/jsproxy)                             | 2019-04-23 | Shell       | 2021-06-15   |
+|  6 | [stunserver](https://github.com/jselbie/stunserver)                          | 2015-07-17 | C++         | 2021-06-12   |
+|  7 | [cloud-act2](https://github.com/idcos/cloud-act2)                            | 2021-06-07 | Go          | 2021-06-07   |
+|  8 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)          | 2014-12-12 | Python      | 2021-06-13   |
+|  9 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                              | 2020-09-14 | Java        | 2021-06-16   |
+| 10 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)               | 2014-11-26 | md          | 2019-02-14   |
 
 <!--END_SECTION:my_github-->

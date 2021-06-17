@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java        | 2021-05-13   |
-|  2 | [Hackintosh](https://github.com/daliansky/Hackintosh)                        | 2020-05-13 | Shell       | 2021-06-15   |
-|  3 | [SvUDID](https://github.com/smileEvday/SvUDID)                               | 2014-04-23 | Objective-C | 2020-09-28   |
-|  4 | [leetcode](https://github.com/soulmachine/leetcode)                          | 2017-07-17 | TeX         | 2021-06-15   |
-|  5 | [jsproxy](https://github.com/EtherDream/jsproxy)                             | 2019-04-23 | Shell       | 2021-06-15   |
-|  6 | [stunserver](https://github.com/jselbie/stunserver)                          | 2015-07-17 | C++         | 2021-06-12   |
-|  7 | [cloud-act2](https://github.com/idcos/cloud-act2)                            | 2021-06-07 | Go          | 2021-06-07   |
-|  8 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)          | 2014-12-12 | Python      | 2021-06-13   |
-|  9 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                              | 2020-09-14 | Java        | 2021-06-16   |
-| 10 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)               | 2014-11-26 | md          | 2019-02-14   |
+| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [Release](https://github.com/vczh-libraries/Release)                   | 2020-09-11 | C++         | 2021-06-17   |
+|  2 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                     | 2014-12-12 | Python      | 2021-03-13   |
+|  3 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)            | 2015-05-15 | Shell       | 2021-06-16   |
+|  4 | [leetcode](https://github.com/azl397985856/leetcode)                   | 2021-01-03 | JavaScript  | 2021-06-16   |
+|  5 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document) | 2015-01-27 | md          | 2021-02-22   |
+|  6 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App)        | 2015-07-16 | Objective-C | 2020-09-26   |
+|  7 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                        | 2015-07-14 | Objective-C | 2021-05-03   |
+|  8 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                        | 2020-09-14 | Java        | 2021-06-17   |
+|  9 | [golang-evdev](https://github.com/gvalkov/golang-evdev)                | 2015-07-05 | Go          | 2021-05-15   |
+| 10 | [katz](https://github.com/gnubert/katz)                                | 2015-07-20 | C           | 2020-08-02   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [Release](https://github.com/vczh-libraries/Release)                   | 2020-09-11 | C++         | 2021-06-17   |
-|  2 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                     | 2014-12-12 | Python      | 2021-03-13   |
-|  3 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)            | 2015-05-15 | Shell       | 2021-06-16   |
-|  4 | [leetcode](https://github.com/azl397985856/leetcode)                   | 2021-01-03 | JavaScript  | 2021-06-16   |
-|  5 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document) | 2015-01-27 | md          | 2021-02-22   |
-|  6 | [PJNATH-iOS-App](https://github.com/marslin1220/PJNATH-iOS-App)        | 2015-07-16 | Objective-C | 2020-09-26   |
-|  7 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                        | 2015-07-14 | Objective-C | 2021-05-03   |
-|  8 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                        | 2020-09-14 | Java        | 2021-06-17   |
-|  9 | [golang-evdev](https://github.com/gvalkov/golang-evdev)                | 2015-07-05 | Go          | 2021-05-15   |
-| 10 | [katz](https://github.com/gnubert/katz)                                | 2015-07-20 | C           | 2020-08-02   |
+| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|----------------------------------------------------------------|------------|------------|--------------|
+|  1 | [mqtt.go](https://github.com/plucury/mqtt.go)                  | 2015-01-27 | Go         | 2021-06-04   |
+|  2 | [falcon-plus](https://github.com/open-falcon/falcon-plus)      | 2019-10-31 | Go         | 2021-06-17   |
+|  3 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                | 2020-09-14 | Java       | 2021-06-18   |
+|  4 | [conduit](https://github.com/conduit-rust/conduit)             | 2015-05-17 | Rust       | 2021-04-25   |
+|  5 | [Cloudboot](https://github.com/idcos/Cloudboot)                | 2021-06-07 | md         | 2021-06-17   |
+|  6 | [redteam_vul](https://github.com/r0eXpeR/redteam_vul)          | 2021-03-11 | md         | 2021-06-17   |
+|  7 | [WebFundamentals](https://github.com/flynngao/WebFundamentals) | 2014-05-08 | md         | 2021-04-05   |
+|  8 | [simple-sso](https://github.com/samitpal/simple-sso)           | 2018-12-10 | Go         | 2021-06-16   |
+|  9 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)     | 2018-12-10 | JavaScript | 2021-02-16   |
+| 10 | [codeobscure](https://github.com/kaich/codeobscure)            | 2019-04-23 | Ruby       | 2021-06-07   |
 
 <!--END_SECTION:my_github-->

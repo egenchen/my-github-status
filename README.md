@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                              REPO                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [mqtt.go](https://github.com/plucury/mqtt.go)                  | 2015-01-27 | Go         | 2021-06-04   |
-|  2 | [falcon-plus](https://github.com/open-falcon/falcon-plus)      | 2019-10-31 | Go         | 2021-06-17   |
-|  3 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                | 2020-09-14 | Java       | 2021-06-18   |
-|  4 | [conduit](https://github.com/conduit-rust/conduit)             | 2015-05-17 | Rust       | 2021-04-25   |
-|  5 | [Cloudboot](https://github.com/idcos/Cloudboot)                | 2021-06-07 | md         | 2021-06-17   |
-|  6 | [redteam_vul](https://github.com/r0eXpeR/redteam_vul)          | 2021-03-11 | md         | 2021-06-17   |
-|  7 | [WebFundamentals](https://github.com/flynngao/WebFundamentals) | 2014-05-08 | md         | 2021-04-05   |
-|  8 | [simple-sso](https://github.com/samitpal/simple-sso)           | 2018-12-10 | Go         | 2021-06-16   |
-|  9 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)     | 2018-12-10 | JavaScript | 2021-02-16   |
-| 10 | [codeobscure](https://github.com/kaich/codeobscure)            | 2019-04-23 | Ruby       | 2021-06-07   |
+| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)               | 2015-05-19 | Groovy   | 2021-05-19   |
+|  2 | [libnice](https://github.com/libnice/libnice)                                           | 2015-07-17 | C        | 2021-06-16   |
+|  3 | [MT7601](https://github.com/di3online/MT7601)                                           | 2015-01-22 | C        | 2021-06-06   |
+|  4 | [docker-debug](https://github.com/zeromake/docker-debug)                                | 2019-03-22 | Go       | 2021-06-11   |
+|  5 | [jsproxy](https://github.com/EtherDream/jsproxy)                                        | 2019-04-23 | Shell    | 2021-06-18   |
+|  6 | [running_page](https://github.com/yihong0618/running_page)                              | 2021-01-29 | Python   | 2021-06-17   |
+|  7 | [pagekit](https://github.com/pagekit/pagekit)                                           | 2014-07-20 | PHP      | 2021-06-18   |
+|  8 | [v-vscode](https://github.com/monarrk/v-vscode)                                         | 2019-05-08 | md       | 2020-05-15   |
+|  9 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md       | 2021-06-18   |
+| 10 | [SmsBackup](https://github.com/zgia/SmsBackup)                                          | 2013-02-17 | md       | 2014-02-20   |
 
 <!--END_SECTION:my_github-->

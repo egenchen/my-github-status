@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE | LAUGUAGE | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|----------|--------------|
-|  1 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)               | 2015-05-19 | Groovy   | 2021-05-19   |
-|  2 | [libnice](https://github.com/libnice/libnice)                                           | 2015-07-17 | C        | 2021-06-16   |
-|  3 | [MT7601](https://github.com/di3online/MT7601)                                           | 2015-01-22 | C        | 2021-06-06   |
-|  4 | [docker-debug](https://github.com/zeromake/docker-debug)                                | 2019-03-22 | Go       | 2021-06-11   |
-|  5 | [jsproxy](https://github.com/EtherDream/jsproxy)                                        | 2019-04-23 | Shell    | 2021-06-18   |
-|  6 | [running_page](https://github.com/yihong0618/running_page)                              | 2021-01-29 | Python   | 2021-06-17   |
-|  7 | [pagekit](https://github.com/pagekit/pagekit)                                           | 2014-07-20 | PHP      | 2021-06-18   |
-|  8 | [v-vscode](https://github.com/monarrk/v-vscode)                                         | 2019-05-08 | md       | 2020-05-15   |
-|  9 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md       | 2021-06-18   |
-| 10 | [SmsBackup](https://github.com/zgia/SmsBackup)                                          | 2013-02-17 | md       | 2014-02-20   |
+| ID |                                REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [personal-influxdb](https://github.com/c99koder/personal-influxdb) | 2021-04-23 | Python     | 2021-06-13   |
+|  2 | [falcon-plus](https://github.com/open-falcon/falcon-plus)          | 2019-10-31 | Go         | 2021-06-18   |
+|  3 | [Memeye](https://github.com/JerryC8080/Memeye)                     | 2017-03-07 | JavaScript | 2021-06-09   |
+|  4 | [cloud-act2](https://github.com/idcos/cloud-act2)                  | 2021-06-07 | Go         | 2021-06-07   |
+|  5 | [request](https://github.com/request/request)                      | 2015-05-22 | JavaScript | 2021-06-19   |
+|  6 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                    | 2020-09-14 | Java       | 2021-06-20   |
+|  7 | [9-Patch-Resizer](https://github.com/soymonitus/9-Patch-Resizer)   | 2015-05-16 | Java       | 2020-04-06   |
+|  8 | [MT7601](https://github.com/di3online/MT7601)                      | 2015-01-22 | C          | 2021-06-06   |
+|  9 | [v-vscode](https://github.com/monarrk/v-vscode)                    | 2019-05-08 | md         | 2020-05-15   |
+| 10 | [docker-debug](https://github.com/zeromake/docker-debug)           | 2019-03-22 | Go         | 2021-06-11   |
 
 <!--END_SECTION:my_github-->

@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [restler](https://github.com/danwrong/restler)                         | 2015-05-22 | JavaScript  | 2021-06-11   |
-|  2 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)      | 2015-05-22 | Shell       | 2021-03-13   |
-|  3 | [node-cqrs-domain](https://github.com/thenativeweb/node-cqrs-domain)   | 2016-03-10 | JavaScript  | 2021-06-16   |
-|  4 | [SvUDID](https://github.com/smileEvday/SvUDID)                         | 2014-04-23 | Objective-C | 2020-09-28   |
-|  5 | [simple-sso](https://github.com/samitpal/simple-sso)                   | 2018-12-10 | Go          | 2021-06-16   |
-|  6 | [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)                   | 2011-12-24 | VimL        | 2021-06-19   |
-|  7 | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)   | 2020-09-14 | Java        | 2021-06-22   |
-|  8 | [Release](https://github.com/vczh-libraries/Release)                   | 2020-09-11 | C++         | 2021-06-21   |
-|  9 | [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) | 2015-05-19 | Groovy      | 2021-06-09   |
-| 10 | [alfredMagic](https://github.com/CoderMageFox/alfredMagic)             | 2018-12-10 | JavaScript  | 2021-02-16   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)                   | 2019-05-15 | JavaScript | 2021-06-17   |
+|  2 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                  | 2015-05-15 | Shell      | 2021-06-22   |
+|  3 | [awesome-freelancer](https://github.com/ckjbug/awesome-freelancer)           | 2019-04-23 | md         | 2021-06-07   |
+|  4 | [tenet](https://github.com/egenchen/tenet)                                   | 2021-03-24 | md         | 2021-03-24   |
+|  5 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)               | 2014-11-26 | md         | 2019-02-14   |
+|  6 | [pjsip](https://github.com/chebur/pjsip)                                     | 2015-07-14 | C          | 2021-06-13   |
+|  7 | [marked](https://github.com/markedjs/marked)                                 | 2011-07-24 | JavaScript | 2021-06-22   |
+|  8 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)            | 2015-05-22 | Shell      | 2021-03-13   |
+|  9 | [SharpKit](https://github.com/SharpKit/SharpKit)                             | 2020-09-08 | C#         | 2021-05-27   |
+| 10 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java       | 2021-05-13   |
 
 <!--END_SECTION:my_github-->

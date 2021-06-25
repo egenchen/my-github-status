@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [falcon-plus](https://github.com/open-falcon/falcon-plus)        | 2019-10-31 | Go         | 2021-06-23   |
-|  2 | [NoCol](https://github.com/johnBuffer/NoCol)                     | 2021-05-02 | C++        | 2021-06-23   |
-|  3 | [9-Patch-Resizer](https://github.com/soymonitus/9-Patch-Resizer) | 2015-05-16 | Java       | 2020-04-06   |
-|  4 | [unirest-nodejs](https://github.com/Kong/unirest-nodejs)         | 2015-05-22 | JavaScript | 2021-06-18   |
-|  5 | [node-odata](https://github.com/TossShinHwa/node-odata)          | 2014-10-17 | JavaScript | 2021-06-10   |
-|  6 | [Cloudboot](https://github.com/idcos/Cloudboot)                  | 2021-06-07 | md         | 2021-06-17   |
-|  7 | [Memeye](https://github.com/JerryC8080/Memeye)                   | 2017-03-07 | JavaScript | 2021-06-09   |
-|  8 | [request](https://github.com/request/request)                    | 2015-05-22 | JavaScript | 2021-06-24   |
-|  9 | [dot-vimrc](https://github.com/humiaozuzu/dot-vimrc)             | 2011-12-24 | VimL       | 2021-06-19   |
-| 10 | [pyspider](https://github.com/binux/pyspider)                    | 2016-08-20 | Python     | 2021-06-23   |
+| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)                          | 2014-05-08 | md          | 2021-04-05   |
+|  2 | [SvUDID](https://github.com/smileEvday/SvUDID)                                          | 2014-04-23 | Objective-C | 2020-09-28   |
+|  3 | [tidb](https://github.com/pingcap/tidb)                                                 | 2015-09-07 | Go          | 2021-06-24   |
+|  4 | [node-chat](https://github.com/czheo/node-chat)                                         | 2014-05-26 | JavaScript  | 2021-04-17   |
+|  5 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md          | 2021-06-23   |
+|  6 | [jsproxy](https://github.com/EtherDream/jsproxy)                                        | 2019-04-23 | Shell       | 2021-06-24   |
+|  7 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                     | 2017-03-12 | Vue         | 2021-06-24   |
+|  8 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                                      | 2014-12-12 | Python      | 2021-03-13   |
+|  9 | [running_page](https://github.com/yihong0618/running_page)                              | 2021-01-29 | Python      | 2021-06-24   |
+| 10 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                            | 2021-05-03 | TypeScript  | 2021-06-25   |
 
 <!--END_SECTION:my_github-->

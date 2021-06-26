@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [WebFundamentals](https://github.com/flynngao/WebFundamentals)                          | 2014-05-08 | md          | 2021-04-05   |
-|  2 | [SvUDID](https://github.com/smileEvday/SvUDID)                                          | 2014-04-23 | Objective-C | 2020-09-28   |
-|  3 | [tidb](https://github.com/pingcap/tidb)                                                 | 2015-09-07 | Go          | 2021-06-24   |
-|  4 | [node-chat](https://github.com/czheo/node-chat)                                         | 2014-05-26 | JavaScript  | 2021-04-17   |
-|  5 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md          | 2021-06-23   |
-|  6 | [jsproxy](https://github.com/EtherDream/jsproxy)                                        | 2019-04-23 | Shell       | 2021-06-24   |
-|  7 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                     | 2017-03-12 | Vue         | 2021-06-24   |
-|  8 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                                      | 2014-12-12 | Python      | 2021-03-13   |
-|  9 | [running_page](https://github.com/yihong0618/running_page)                              | 2021-01-29 | Python      | 2021-06-24   |
-| 10 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                            | 2021-05-03 | TypeScript  | 2021-06-25   |
+| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)                 | 2021-06-24 | Python     | 2021-06-25   |
+|  2 | [NoCol](https://github.com/johnBuffer/NoCol)                                            | 2021-05-02 | C++        | 2021-06-25   |
+|  3 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md         | 2021-06-25   |
+|  4 | [awesome-android-performance](https://github.com/Juude/awesome-android-performance)     | 2015-09-18 | md         | 2021-06-18   |
+|  5 | [rust-zh](https://github.com/rustcc/rust-zh)                                            | 2015-05-17 | md         | 2021-06-24   |
+|  6 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                           | 2013-07-26 | C#         | 2021-06-25   |
+|  7 | [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)                              | 2019-05-15 | JavaScript | 2021-06-23   |
+|  8 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)                              | 2015-02-24 | Ruby       | 2021-01-24   |
+|  9 | [rbac](https://github.com/seeden/rbac)                                                  | 2016-01-23 | JavaScript | 2021-06-24   |
+| 10 | [restler](https://github.com/danwrong/restler)                                          | 2015-05-22 | JavaScript | 2021-06-24   |
 
 <!--END_SECTION:my_github-->

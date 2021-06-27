@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)                 | 2021-06-24 | Python     | 2021-06-25   |
-|  2 | [NoCol](https://github.com/johnBuffer/NoCol)                                            | 2021-05-02 | C++        | 2021-06-25   |
-|  3 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md         | 2021-06-25   |
-|  4 | [awesome-android-performance](https://github.com/Juude/awesome-android-performance)     | 2015-09-18 | md         | 2021-06-18   |
-|  5 | [rust-zh](https://github.com/rustcc/rust-zh)                                            | 2015-05-17 | md         | 2021-06-24   |
-|  6 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                           | 2013-07-26 | C#         | 2021-06-25   |
-|  7 | [wx-tfjs-demo](https://github.com/HunterXuan/wx-tfjs-demo)                              | 2019-05-15 | JavaScript | 2021-06-23   |
-|  8 | [AgileNotifier](https://github.com/thyrlian/AgileNotifier)                              | 2015-02-24 | Ruby       | 2021-01-24   |
-|  9 | [rbac](https://github.com/seeden/rbac)                                                  | 2016-01-23 | JavaScript | 2021-06-24   |
-| 10 | [restler](https://github.com/danwrong/restler)                                          | 2015-05-22 | JavaScript | 2021-06-24   |
+| ID |                                         REPO                                          | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci)                     | 2015-05-22 | Shell    | 2021-03-13   |
+|  2 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                       | 2020-09-14 | Java     | 2021-06-26   |
+|  3 | [node-webkit-mas](https://github.com/patr0nus/node-webkit-mas)                        | 2014-11-26 | md       | 2019-02-14   |
+|  4 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md       | 2021-06-27   |
+|  5 | [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin)                | 2015-05-19 | Groovy   | 2021-06-09   |
+|  6 | [tidb](https://github.com/pingcap/tidb)                                               | 2015-09-07 | Go       | 2021-06-26   |
+|  7 | [stunserver](https://github.com/jselbie/stunserver)                                   | 2015-07-17 | C++      | 2021-06-20   |
+|  8 | [codeobscure](https://github.com/kaich/codeobscure)                                   | 2019-04-23 | Ruby     | 2021-06-07   |
+|  9 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                    | 2014-07-17 | Swift    | 2021-06-26   |
+| 10 | [mqtt.go](https://github.com/plucury/mqtt.go)                                         | 2015-01-27 | Go       | 2021-06-04   |
 
 <!--END_SECTION:my_github-->

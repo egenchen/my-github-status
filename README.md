@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                  REPO                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [core](https://github.com/cqrsfk/core)                                 | 2016-03-10 | TypeScript | 2021-06-16   |
-|  2 | [7days-golang](https://github.com/geektutu/7days-golang)               | 2020-10-08 | Go         | 2021-06-30   |
-|  3 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)             | 2021-05-08 | Python     | 2021-07-01   |
-|  4 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document) | 2015-01-27 | md         | 2021-02-22   |
-|  5 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)          | 2013-07-26 | C#         | 2021-06-29   |
-|  6 | [ionic-babythings](https://github.com/my101du/ionic-babythings)        | 2014-11-24 | JavaScript | 2021-04-19   |
-|  7 | [libnice](https://github.com/libnice/libnice)                          | 2015-07-17 | C          | 2021-06-29   |
-|  8 | [falcon-plus](https://github.com/open-falcon/falcon-plus)              | 2019-10-31 | Go         | 2021-06-30   |
-|  9 | [node-chat](https://github.com/czheo/node-chat)                        | 2014-05-26 | JavaScript | 2021-04-17   |
-| 10 | [marked](https://github.com/markedjs/marked)                           | 2011-07-24 | JavaScript | 2021-06-30   |
+| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [coding-interview-university](https://github.com/jwasham/coding-interview-university)    | 2021-03-10 | md          | 2021-07-02   |
+|  2 | [docker-debug](https://github.com/zeromake/docker-debug)                                 | 2019-03-22 | Go          | 2021-06-22   |
+|  3 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                            | 2013-07-26 | C#          | 2021-06-29   |
+|  4 | [SharpKit](https://github.com/SharpKit/SharpKit)                                         | 2020-09-08 | C#          | 2021-05-27   |
+|  5 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)                | 2015-05-19 | Groovy      | 2021-06-23   |
+|  6 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md          | 2021-07-01   |
+|  7 | [ladon](https://github.com/ory/ladon)                                                    | 2019-02-13 | Go          | 2021-06-30   |
+|  8 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo)             | 2019-04-17 | Java        | 2021-05-13   |
+|  9 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                          | 2015-07-14 | Objective-C | 2021-05-03   |
+| 10 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                             | 2021-05-03 | TypeScript  | 2021-07-01   |
 
 <!--END_SECTION:my_github-->

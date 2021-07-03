@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|-------------|--------------|
-|  1 | [coding-interview-university](https://github.com/jwasham/coding-interview-university)    | 2021-03-10 | md          | 2021-07-02   |
-|  2 | [docker-debug](https://github.com/zeromake/docker-debug)                                 | 2019-03-22 | Go          | 2021-06-22   |
-|  3 | [MarkdownOutlook](https://github.com/mmanela/MarkdownOutlook)                            | 2013-07-26 | C#          | 2021-06-29   |
-|  4 | [SharpKit](https://github.com/SharpKit/SharpKit)                                         | 2020-09-08 | C#          | 2021-05-27   |
-|  5 | [gradle-msbuild-plugin](https://github.com/Itiviti/gradle-msbuild-plugin)                | 2015-05-19 | Groovy      | 2021-06-23   |
-|  6 | [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) | 2018-07-15 | md          | 2021-07-01   |
-|  7 | [ladon](https://github.com/ory/ladon)                                                    | 2019-02-13 | Go          | 2021-06-30   |
-|  8 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo)             | 2019-04-17 | Java        | 2021-05-13   |
-|  9 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                          | 2015-07-14 | Objective-C | 2021-05-03   |
-| 10 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                             | 2021-05-03 | TypeScript  | 2021-07-01   |
+| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                 | 2021-05-03 | TypeScript | 2021-07-02   |
+|  2 | [codeobscure](https://github.com/kaich/codeobscure)                          | 2019-04-23 | Ruby       | 2021-07-02   |
+|  3 | [rdm-builder](https://github.com/FuckDoctors/rdm-builder)                    | 2021-06-21 | md         | 2021-07-01   |
+|  4 | [docker-redmine](https://github.com/sameersbn/docker-redmine)                | 2015-05-22 | Shell      | 2021-07-02   |
+|  5 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                           | 2014-12-12 | Python     | 2021-03-13   |
+|  6 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                 | 2018-12-10 | Go         | 2021-06-15   |
+|  7 | [pyspider](https://github.com/binux/pyspider)                                | 2016-08-20 | Python     | 2021-07-02   |
+|  8 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)       | 2015-01-27 | md         | 2021-02-22   |
+|  9 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java       | 2021-05-13   |
+| 10 | [core](https://github.com/cqrsfk/core)                                       | 2016-03-10 | TypeScript | 2021-06-16   |
 
 <!--END_SECTION:my_github-->

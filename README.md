@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                     REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs)                 | 2021-05-03 | TypeScript | 2021-07-02   |
-|  2 | [codeobscure](https://github.com/kaich/codeobscure)                          | 2019-04-23 | Ruby       | 2021-07-02   |
-|  3 | [rdm-builder](https://github.com/FuckDoctors/rdm-builder)                    | 2021-06-21 | md         | 2021-07-01   |
-|  4 | [docker-redmine](https://github.com/sameersbn/docker-redmine)                | 2015-05-22 | Shell      | 2021-07-02   |
-|  5 | [EC-Spider](https://github.com/ClericPy/EC-Spider)                           | 2014-12-12 | Python     | 2021-03-13   |
-|  6 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                 | 2018-12-10 | Go         | 2021-06-15   |
-|  7 | [pyspider](https://github.com/binux/pyspider)                                | 2016-08-20 | Python     | 2021-07-02   |
-|  8 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)       | 2015-01-27 | md         | 2021-02-22   |
-|  9 | [android-CollectionDemo](https://github.com/wapchief/android-CollectionDemo) | 2019-04-17 | Java       | 2021-05-13   |
-| 10 | [core](https://github.com/cqrsfk/core)                                       | 2016-03-10 | TypeScript | 2021-06-16   |
+| ID |                                REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                 | 2014-07-17 | Swift      | 2021-07-03   |
+|  2 | [Hackintosh](https://github.com/daliansky/Hackintosh)              | 2020-05-13 | Shell      | 2021-07-03   |
+|  3 | [simple-sso](https://github.com/samitpal/simple-sso)               | 2018-12-10 | Go         | 2021-06-16   |
+|  4 | [pjsip](https://github.com/chebur/pjsip)                           | 2015-07-14 | C          | 2021-06-13   |
+|  5 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)         | 2021-05-08 | Python     | 2021-07-04   |
+|  6 | [golang-evdev](https://github.com/gvalkov/golang-evdev)            | 2015-07-05 | Go         | 2021-05-15   |
+|  7 | [awesome-freelancer](https://github.com/ckjbug/awesome-freelancer) | 2019-04-23 | md         | 2021-06-29   |
+|  8 | [pyspider](https://github.com/binux/pyspider)                      | 2016-08-20 | Python     | 2021-07-03   |
+|  9 | [nwui](https://github.com/go-nwui/nwui)                            | 2015-02-15 | Go         | 2021-06-29   |
+| 10 | [marked](https://github.com/markedjs/marked)                       | 2011-07-24 | JavaScript | 2021-07-03   |
 
 <!--END_SECTION:my_github-->

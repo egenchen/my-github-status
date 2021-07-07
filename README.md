@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                         REPO                                          | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [docker-gitlab](https://github.com/sameersbn/docker-gitlab)                           | 2015-05-15 | Shell      | 2021-07-05   |
-|  2 | [vue2-elm](https://github.com/bailicangdu/vue2-elm)                                   | 2017-03-12 | Vue        | 2021-07-05   |
-|  3 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 2021-03-10 | md         | 2021-07-06   |
-|  4 | [rdm-builder](https://github.com/FuckDoctors/rdm-builder)                             | 2021-06-21 | md         | 2021-07-05   |
-|  5 | [go-oauth2-sso](https://github.com/janwenjohn/go-oauth2-sso)                          | 2018-12-10 | Go         | 2021-06-15   |
-|  6 | [running_page](https://github.com/yihong0618/running_page)                            | 2021-01-29 | Python     | 2021-07-05   |
-|  7 | [Cloudboot](https://github.com/idcos/Cloudboot)                                       | 2021-06-07 | md         | 2021-06-28   |
-|  8 | [ladon](https://github.com/ory/ladon)                                                 | 2019-02-13 | Go         | 2021-06-30   |
-|  9 | [core](https://github.com/cqrsfk/core)                                                | 2016-03-10 | TypeScript | 2021-06-16   |
-| 10 | [tenet](https://github.com/egenchen/tenet)                                            | 2021-03-24 | md         | 2021-03-24   |
+| ID |                                          REPO                                           | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)                  | 2015-01-27 | md         | 2021-02-22   |
+|  2 | [Cloudboot](https://github.com/idcos/Cloudboot)                                         | 2021-06-07 | md         | 2021-06-28   |
+|  3 | [jsproxy](https://github.com/EtherDream/jsproxy)                                        | 2019-04-23 | Shell      | 2021-07-07   |
+|  4 | [marked](https://github.com/markedjs/marked)                                            | 2011-07-24 | JavaScript | 2021-07-07   |
+|  5 | [core](https://github.com/cqrsfk/core)                                                  | 2016-03-10 | TypeScript | 2021-06-16   |
+|  6 | [aliyunpan](https://github.com/liupan1890/aliyunpan)                                    | 2021-07-05 | Dart       | 2021-07-06   |
+|  7 | [ladon](https://github.com/ory/ladon)                                                   | 2019-02-13 | Go         | 2021-06-30   |
+|  8 | [personal-influxdb](https://github.com/c99koder/personal-influxdb)                      | 2021-04-23 | Python     | 2021-07-02   |
+|  9 | [golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) | 2019-04-24 | md         | 2021-07-06   |
+| 10 | [7days-golang](https://github.com/geektutu/7days-golang)                                | 2020-10-08 | Go         | 2021-07-06   |
 
 <!--END_SECTION:my_github-->

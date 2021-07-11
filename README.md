@@ -18,17 +18,17 @@
 |  1 | [gorm](https://github.com/go-gorm/gorm) | 2020-09-08 | 2020-09-08 | [1](https://github.com/go-gorm/gorm/pulls?q=is%3Apr+author%3Aegenchen) |
 
 ## The repos I stared (random 10)
-| ID |                                REPO                                 | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [katz](https://github.com/gnubert/katz)                             | 2015-07-20 | C          | 2020-08-02   |
-|  2 | [v-vscode](https://github.com/monarrk/v-vscode)                     | 2019-05-08 | md         | 2020-05-15   |
-|  3 | [redteam_vul](https://github.com/r0eXpeR/redteam_vul)               | 2021-03-11 | md         | 2021-07-09   |
-|  4 | [restler](https://github.com/danwrong/restler)                      | 2015-05-22 | JavaScript | 2021-06-24   |
-|  5 | [ladon](https://github.com/ory/ladon)                               | 2019-02-13 | Go         | 2021-07-09   |
-|  6 | [distribute_crawler](https://github.com/gnemoug/distribute_crawler) | 2014-12-12 | Python     | 2021-07-08   |
-|  7 | [pagekit](https://github.com/pagekit/pagekit)                       | 2014-07-20 | PHP        | 2021-07-06   |
-|  8 | [rdm-builder](https://github.com/FuckDoctors/rdm-builder)           | 2021-06-21 | md         | 2021-07-08   |
-|  9 | [docker-debug](https://github.com/zeromake/docker-debug)            | 2019-03-22 | Go         | 2021-06-22   |
-| 10 | [libnice](https://github.com/libnice/libnice)                       | 2015-07-17 | C          | 2021-07-01   |
+| ID |                                        REPO                                         | STAREDDATE |  LAUGUAGE   | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------|------------|-------------|--------------|
+|  1 | [SwiftGuide](https://github.com/ipader/SwiftGuide)                                  | 2014-07-17 | Swift       | 2021-07-09   |
+|  2 | [infoviz](https://github.com/nocoo/infoviz)                                         | 2012-08-22 | JavaScript  | 2021-05-31   |
+|  3 | [awesome-freelancer](https://github.com/ckjbug/awesome-freelancer)                  | 2019-04-23 | md          | 2021-06-29   |
+|  4 | [awesome-go](https://github.com/avelino/awesome-go)                                 | 2014-07-07 | Go          | 2021-07-11   |
+|  5 | [v-vscode](https://github.com/monarrk/v-vscode)                                     | 2019-05-08 | md          | 2020-05-15   |
+|  6 | [rust](https://github.com/rust-lang/rust)                                           | 2015-05-16 | Rust        | 2021-07-11   |
+|  7 | [awesome-iot-document](https://github.com/phodal/awesome-iot-document)              | 2015-01-27 | md          | 2021-02-22   |
+|  8 | [STUN-iOS](https://github.com/soulfly/STUN-iOS)                                     | 2015-07-14 | Objective-C | 2021-05-03   |
+|  9 | [livepool](https://github.com/rehorn/livepool)                                      | 2014-07-17 | JavaScript  | 2021-04-11   |
+| 10 | [awesome-android-performance](https://github.com/Juude/awesome-android-performance) | 2015-09-18 | md          | 2021-07-09   |
 
 <!--END_SECTION:my_github-->

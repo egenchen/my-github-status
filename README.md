@@ -20,15 +20,15 @@
 ## The repos I stared (random 10)
 | ID |                              REPO                               | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
 |----|-----------------------------------------------------------------|------------|------------|--------------|
-|  1 | [node-odata](https://github.com/TossShinHwa/node-odata)         | 2014-10-17 | JavaScript | 2021-06-25   |
-|  2 | [git-hound](https://github.com/tillson/git-hound)               | 2021-06-28 | Go         | 2021-07-11   |
-|  3 | [golang-evdev](https://github.com/gvalkov/golang-evdev)         | 2015-07-05 | Go         | 2021-07-06   |
-|  4 | [ionic-babythings](https://github.com/my101du/ionic-babythings) | 2014-11-24 | JavaScript | 2021-04-19   |
-|  5 | [gitGraber](https://github.com/hisxo/gitGraber)                 | 2021-06-28 | Python     | 2021-07-07   |
-|  6 | [Release](https://github.com/vczh-libraries/Release)            | 2020-09-11 | C++        | 2021-07-11   |
-|  7 | [leetcode](https://github.com/azl397985856/leetcode)            | 2021-01-03 | JavaScript | 2021-07-11   |
-|  8 | [livepool](https://github.com/rehorn/livepool)                  | 2014-07-17 | JavaScript | 2021-04-11   |
-|  9 | [infoviz](https://github.com/nocoo/infoviz)                     | 2012-08-22 | JavaScript | 2021-05-31   |
-| 10 | [falcon-plus](https://github.com/open-falcon/falcon-plus)       | 2019-10-31 | Go         | 2021-07-11   |
+|  1 | [Cloudboot](https://github.com/idcos/Cloudboot)                 | 2021-06-07 | md         | 2021-07-07   |
+|  2 | [marked](https://github.com/markedjs/marked)                    | 2011-07-24 | JavaScript | 2021-07-13   |
+|  3 | [core](https://github.com/cqrsfk/core)                          | 2016-03-10 | TypeScript | 2021-07-07   |
+|  4 | [rbac](https://github.com/seeden/rbac)                          | 2016-01-23 | JavaScript | 2021-07-12   |
+|  5 | [bk-cmdb](https://github.com/Tencent/bk-cmdb)                   | 2021-06-19 | Go         | 2021-07-12   |
+|  6 | [docker-debug](https://github.com/zeromake/docker-debug)        | 2019-03-22 | Go         | 2021-06-22   |
+|  7 | [ionic-babythings](https://github.com/my101du/ionic-babythings) | 2014-11-24 | JavaScript | 2021-04-19   |
+|  8 | [request](https://github.com/request/request)                   | 2015-05-22 | JavaScript | 2021-07-12   |
+|  9 | [jsproxy](https://github.com/EtherDream/jsproxy)                | 2019-04-23 | Shell      | 2021-07-12   |
+| 10 | [libnice](https://github.com/libnice/libnice)                   | 2015-07-17 | C          | 2021-07-10   |
 
 <!--END_SECTION:my_github-->
